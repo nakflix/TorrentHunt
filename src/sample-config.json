@@ -1,18 +1,18 @@
 {
     "botToken": null,
 
-    "connectionType": "polling",
+    "connectionType": "webhook",
 
     "webhookOptions":{
-        "webhookHost": null,
+        "webhookHost": telegram,
         
-        "webhookPort": null,
+        "webhookPort": 8080,
         
         "webhookListen": "0.0.0.0",
         
-        "sslCertificate": null,
+        "sslCertificate": Directory of SSL certificate,
         
-        "sslPrivateKey": null
+        "sslPrivateKey": Directory of SSL private key
     },
     
     "adminId" : null,
