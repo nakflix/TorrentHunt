@@ -1,21 +1,21 @@
 {
-    "botToken": null,
+    "botToken": '6054147156:AAFSyWiEfiU5jldmnAfFhsL8zR7O204uG8Q',
 
     "connectionType": "webhook",
 
     "webhookOptions":{
-        "webhookHost": telegram,
+        "webhookHost": 'telegram',
         
         "webhookPort": 8080,
         
         "webhookListen": "0.0.0.0",
         
-        "sslCertificate": Directory of SSL certificate,
+        "sslCertificate": 'Directory of SSL certificate',
         
-        "sslPrivateKey": Directory of SSL private key
+        "sslPrivateKey": 'Directory of SSL private key'
     },
     
-    "adminId" : null,
+    "adminId" : '1458235021',
 
     "database": "torrenthunt.sqlite",
 
